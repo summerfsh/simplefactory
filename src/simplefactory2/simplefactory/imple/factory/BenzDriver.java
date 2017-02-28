@@ -6,7 +6,7 @@ import simplefactory2.simplefactory.role.abs.Driver;
 
 /**
  * Describe 具体工厂角色
- * Created by wind on 2017/2/28.
+ * Created by hui on 2017/2/28.
  */
 public class BenzDriver implements Driver {
     @Override

@@ -5,7 +5,7 @@ import simplefactory2.simplefactory.interf.Car;
 import simplefactory2.simplefactory.role.abs.Driver;
 
 /**
- * Created by wind on 2017/2/24.
+ * Created by hui on 2017/2/24.
  */
 public class Magnate2 {
     public static void main(String args[]) {

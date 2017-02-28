@@ -4,7 +4,7 @@ import simplefactory.interf.Car;
 import simplefactory.role.Driver;
 
 /**
- * Created by wind on 2017/2/24.
+ * Created by hui on 2017/2/24.
  */
 public class Magnate {
     public static void main(String args[]) {

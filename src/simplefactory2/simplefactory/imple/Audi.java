@@ -3,7 +3,7 @@ package simplefactory2.simplefactory.imple;
 import simplefactory2.simplefactory.interf.Car;
 
 /**Describe 具体产品角色
- * Created by wind on 2017/2/28.
+ * Created by hui on 2017/2/28.
  */
 public class Audi implements Car {
     @Override
