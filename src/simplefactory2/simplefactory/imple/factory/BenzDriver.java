@@ -9,6 +9,10 @@ import simplefactory2.simplefactory.role.abs.Driver;
  * Created by hui on 2017/2/28.
  */
 public class BenzDriver implements Driver {
+    public BenzDriver() {
+        System.out.println("new BenzDriver..");
+    }
+
     @Override
     public Car driverCar() {
         return new Benz();

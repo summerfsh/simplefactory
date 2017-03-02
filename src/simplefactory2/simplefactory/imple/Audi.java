@@ -6,6 +6,10 @@ import simplefactory2.simplefactory.interf.Car;
  * Created by hui on 2017/2/28.
  */
 public class Audi implements Car {
+    public Audi() {
+        System.out.println("new Audi...");
+    }
+
     @Override
     public void drive() {
         System.out.println("Audi----");
